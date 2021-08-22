@@ -31,6 +31,8 @@ draft: false
 **K & K Landscape**, Surrey, BC - Canada
 * Gardener/Landscaper --- May 2017 - Present
 
-Mailman, Canada Post, Montreal, ,QC	Jan 2006 - Dec 2013
+**Canada Post**, Montreal, QC - Canada
+* Mailman --- Jan 2006 - Dec 2013
 
-Owner, Pierini Furniture, Montreal, QC
+**Pierini Furniture**, Montreal, QC - Canada
+* Owner --- May 2004 - Apr 2014
