@@ -110,7 +110,7 @@ author = "authors"
   [[languages.en.menu.main]]
     name = "Experiences"
     weight = 40
-    url = "Experiences/"
+    url = "experiences/"
 
   [[languages.en.menu.main]]
     name = "ProDev"
