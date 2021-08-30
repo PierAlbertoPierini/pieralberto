@@ -2,6 +2,6 @@
 
 My Web sites in Continuous Integration and Continuous Delivery (CI/CD) development.
 
-## Programmed in
+## Developed in
 
 I`m using Hugo.

@@ -1,0 +1,5 @@
+[context.production]
+  command = "hugo"
+
+[context.production.environment]
+  HUGO_VERSION = "0.87.0"

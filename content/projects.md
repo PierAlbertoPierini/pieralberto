@@ -1,13 +1,12 @@
----
-title: "Projects"
-date: 2021-08-14T10:39:02-07:00
-draft: false
----
++++
+title = "My Open Source Projects"
+description = "My Projects"
+date = "2021-08-30"
+aliases = ["projects", "ideas"]
+author = "Pier Alberto"
++++
 
 ## Project Zero dot Zero
-
-## My Open Source project.
-
  
 ### The crazy IDEA
 
@@ -16,12 +15,12 @@ There is my idea
 
 Normal Data Center have a lot of issues like:
 
-    Energy
-    Heating
-    Capacity
-    Costs
-    Building Design
-    etc.
+- Energy
+- Heating
+- Capacity
+- Costs
+- Building Design
+- etc.
 
 If we can see the solution from another point of view, change the way of thinking and start from another side?
 
@@ -32,17 +31,17 @@ Is the first Data Center totally Open Source, build around the Raspberry PI Zero
 
 The strong points of this project are:
 
-    Energy Consumption: the single board Raspberry PI Zero have a Power ratings of ~160 mA (0.8 W)
-    Energy: Data Center Zero are a totally renewable energy consumption idea. Power from different renewable energy source like: SUN, WIND, and micro power sources available around us.
-    Space saver: the size of the Raspberry PI Zero is 65 mm × 30 mm × 5 mm confronted with a Standard ATX motherboard 305 mm x 244 mm (https://en.wikipedia.org/wiki/ATX) we can have 38 Raspberry PI Zero only on the area of an ATX motherboard.
-    Electronic: Data Center Zero will develop their own electronic built in innovations but simple enough to be reproduced everywhere without big investments, possibly 3D printed and always Open Source.
-    Cooling system: Data Center Zero will utilize less power consuming computing board, less energy conversion that limit the creation of hot air. Build a normal air flow circulation that can improve the cooling system to prevent the need of Air Conditioning, Air forced cooling and water cooling. We Fight the Climate Change.
-    Portability: Data Center Zero will be built modular, from every perspective, simple but modular, that can fit on a little car or in a truck to a normal Data Center, modular and portable.
-    Racks: Data Center Zero shall build own racks, with the 3D printing technologies.
-    Software: Data Center Zero shall produce Open Source software solution to automate the normal function of the data center.
-    Recycling: Data Center Zero will be completely recyclable.
-    3D printed: Data Center Zero will build the rack in function of the hardware and not vice versa, save space, better cooling quality and Smart built in mind. Solutions that can be print at home.
-    I forgot something??
+-Energy Consumption: the single board Raspberry PI Zero have a Power ratings of ~160 mA (0.8 W)
+- Energy: Data Center Zero are a totally renewable energy consumption idea. Power from different renewable energy source like: SUN, WIND, and micro power sources available around us.
+- Space saver: the size of the Raspberry PI Zero is 65 mm × 30 mm × 5 mm confronted with a Standard ATX motherboard 305 mm x 244 mm (https://en.wikipedia.org/wiki/ATX) we can have 38 Raspberry PI Zero only on the area of an ATX motherboard.
+- Electronic: Data Center Zero will develop their own electronic built in innovations but simple enough to be reproduced everywhere without big investments, possibly 3D printed and always Open Source.
+- Cooling system: Data Center Zero will utilize less power consuming computing board, less energy conversion that limit the creation of hot air. Build a normal air flow circulation that can improve the cooling system to prevent the need of Air Conditioning, Air forced cooling and water cooling. We Fight the Climate Change.
+- Portability: Data Center Zero will be built modular, from every perspective, simple but modular, that can fit on a little car or in a truck to a normal Data Center, modular and portable.
+- Racks: Data Center Zero shall build own racks, with the 3D printing technologies.
+- Software: Data Center Zero shall produce Open Source software solution to automate the normal function of the data center.
+- Recycling: Data Center Zero will be completely recyclable.
+- 3D printed: Data Center Zero will build the rack in function of the hardware and not vice versa, save space, better cooling quality and Smart built in mind. Solutions that can be print at home.
+- I forgot something??
 
 ## WHO
 
@@ -87,7 +86,9 @@ Getting to the point where I can ship the services to your internet door from th
 2) Develop the custom software
 3) Getting international contacts
 4) Shipping the blueprint and after the services
+
 I am not shying away from any of these challenges. While I am taking them seriously, I am adamant in overcoming any problem. With the help from the community, I can have the resources to move into production while also completing all of the tasks above.
+
 Why 2,000,000$?
 Because I would like first to see if someone is interested and second because to deliver a real Data Center is not something we can do with only hundreds of dollars.
 2017/06/05 NEWS

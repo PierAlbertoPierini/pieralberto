@@ -1,4 +1,4 @@
-baseURL = "http://www.example.com"
+baseURL = "http://www.pieralberto."
 title = "Pier Alberto Pierini"
 theme = "hugo-coder"
 languageCode = "en"
@@ -12,11 +12,11 @@ enableEmoji = true
 [params]
 author = "Pier Alberto Pierini"
 description = "Pier Alberto's personal website"
-keywords = "resume,developer,personal"
+keywords = "resume,IT,personal"
 info = ["The IT Samurai Spirit", "Never Give Up spirit"]
 avatarURL = "images/avatar.jpg"
 #gravatar = "pieralbertopierini@gmail.com"
-footerContent = "Enter a text here."
+footerContent = "The IT Samurai"
 dateFormat = "January 2, 2006"
 hideFooter = false
 hideCredits = false
@@ -72,19 +72,19 @@ author = "authors"
   name = "Github"
   icon = "fa fa-github"
   weight = 1
-  url = "https://github.com/PierAlbertoPierini/"
+  url = "https://github.com/PierAlbertoPierini"
 
 # [[params.social]]
-  # name = "Twitter"
-  # icon = "fa fa-twitter"
-  # weight = 3
-  # url = "https://twitter.com/johndoe/"
+#   name = "Twitter"
+#   icon = "fa fa-twitter"
+#   weight = 3
+#   url = "https://twitter.com/johndoe/"
 
 [[params.social]]
   name = "LinkedIn"
   icon = "fa fa-linkedin"
   weight = 4
-  url = "https://www.linkedin.com/in/pieralbertopierini/"
+  url = "https://www.linkedin.com/in/pieralbertopierini"
 
 [languages]
   [languages.en]
@@ -122,40 +122,30 @@ author = "authors"
     weight = 60
     url = "projects/"
 
-  [languages.it]
-    weight = 20
-    languageName = "Italiano"
-    languageCode = "it-it"
+  [[languages.en.menu.main]]
+    name = "Varia"
+    weight = 70
+    url = "varia/"
 
-  [languages.it.params]
-    info = ["IT Samurai", "Spirito Indomito"]
-    description = "Sito personale di Pier Alberto Pierini"
-    keywords = "MSP,IT support,personale"
-    footerContent = ""
-
-  [[languages.it.menu.main]]
-    name = "Sobre"
-    weight = 1
-    url = "about/"
-
-  [[languages.it.menu.main]]
-    name = "Blog"
-    weight = 2
-    url = "posts/"
-
-  [[languages.it.menu.main]]
-    name = "Projetos"
-    weight = 3
-    url = "projects/"
-
-  [[languages.it.menu.main]]
-    name = "Contato"
-    weight = 5
-    url = "contact/"
+#  [languages.it]
+#    weight = 20
+#    languageName = "Italiano"
+#    languageCode = "it-it"
+#
+#  [languages.it.params]
+#    info = ["IT Samurai", "Spirito Indomito"]
+#    description = "Sito personale di Pier Alberto Pierini"
+#    keywords = "MSP,IT support,personale"
+#    footerContent = ""
+#
+#  [[languages.it.menu.main]]
+#    name = "Chi sono"
+#    weight = 1
+#    url = "about/"
 #
 #  [languages.fr]
 #   weight = 30
-#   languageName = "Frencais"
+#   languageName = "French"
 #   languageCode = "fr-fr"
 #
 #  [languages.fr.params]
@@ -165,22 +155,6 @@ author = "authors"
 #   footerContent = ""
 #
 #  [[languages.fr.menu.main]]
-#   name = "Sobre"
+#   name = "qui nous sommes"
 #   weight = 1
 #   url = "about/"
-#
-#  [[languages.fr.menu.main]]
-#   name = "Blog"
-#   weight = 2
-#   url = "posts/"
-#
-#  [[languages.fr.menu.main]]
-#   name = "Projetos"
-#   weight = 3
-#   url = "projects/"
-#
-#  [[languages.fr.menu.main]]
-#   name = "Contato"
-#   weight = 5
-#   url = "contact/"
-#

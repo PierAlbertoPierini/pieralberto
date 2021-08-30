@@ -1,8 +1,10 @@
----
-title: "Professional development"
-date: 2021-08-14T10:38:46-07:00
-draft: false
----
++++
+title = "Professional Development"
+description = "My Professional Development"
+date = "2021-08-30"
+aliases = ["development", "studies", "courses"]
+author = "Pier Alberto"
++++
 
 ## 2020
 ---
